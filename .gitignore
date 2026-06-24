@@ -1,0 +1,8 @@
+# VS Code directory
+.vscode/
+
+# vendor directory
+src/registration-form-oop/vendor/
+
+# macOS Finder metadata files
+.DS_Store

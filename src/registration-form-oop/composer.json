@@ -1,0 +1,12 @@
+{
+    "config": {
+        "allow-plugins": false
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.3",
+        "mpdf/mpdf": "^8.2"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
